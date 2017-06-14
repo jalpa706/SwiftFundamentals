@@ -9,10 +9,30 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>FundamentalSwiftErrors.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>FundamentalSwiftIOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>4C5011D51EEF924700B04F0D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4C5011E31EEF930100B04F0D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4C5011F91EEF939900B04F0D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
